@@ -2,7 +2,7 @@
 >打开Ubuntu进入linux环境下  
 >>先切换到虚拟环境python3.8.5中     
 
-    TabTabsource activate 3.8.5 
+    source activate 3.8.5 
 >>在切换到该项目目录  
 
     cd /mnt/e/data/suihao/z-python/date-analysis-mh  
